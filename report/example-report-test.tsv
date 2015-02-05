@@ -1,0 +1,2 @@
+campaign	total-rounds	base-bid	ref	p	i	d	settle-con	rise-con	rise-time	settling-time	overshoot	rmse-ss	sd-ss
+1458	40	69	40000	0.003	1e-06	0.0001	0.1	0.9	2	31	16.5125	0.059622299085	0.0550374573616
