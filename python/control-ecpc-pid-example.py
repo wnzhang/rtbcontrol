@@ -21,7 +21,7 @@ print "Reference eCPC: " + str(ref)
 # parameter setting
 minbid = 5
 cntr_rounds = 40
-para_p = 0.003
+para_p = 0.0005
 para_i = 0.000001
 para_d = 0.0001
 div = 1e-6
