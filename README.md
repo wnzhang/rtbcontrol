@@ -102,7 +102,9 @@ round	ecpc	phi	total_click	click_ratio	win_ratio	total_cost	ref
 ```
 This is a demo of controlling eCPC to 400,000 (RMB cent in CPM) by PID controller. The example data files `exp-data/train.txt` and `exp-data/test.txt` are sampled from the campaign 1458 from iPinYou dataset. We can observe that the eCPC successfully gets converged within the error band [36000, 44000] in both train and test stages.
 
-### Feature Engineering Code
-By running more experiments, you will rely on another repository which is written for iPinYou dataset feature engineering.
+The current version of repository contains the code supporting the experiment Sections 4.2, 4.3 and 4.5.
+
+### Feature Engineering for Large-scale Experiment
+For running further large-scale experiments, you will rely on another repository which is written for iPinYou dataset feature engineering.
 
 Please check our GitHub project [make-ipinyou-data](https://github.com/wnzhang/make-ipinyou-data). After downloading the dataset, by simplying `make all` you can generate the standardised data which will be used in the bid optimisation tasks.
