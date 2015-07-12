@@ -1,7 +1,7 @@
 Experiment Code for RTB Feedback Control Techniques
 ===========
 
-This is a repository of the experiment code supporting the paper "Feedback Control of Real-Time Display Advertising" submitted to KDD 2015.
+This is a repository of the experiment code supporting the paper "Feedback Control of Real-Time Display Advertising" submitted to WSDM 2016.
 
 For any problems, please report the issues here or contact [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/).
 
